@@ -18,7 +18,7 @@ dotnet ef database update
 ```
 
 4. Run this project with `dotnet run`.
-5. **Download** and **run** my other [web service]() which is going to validate the token.
+5. **Download** and **run** my other [web service](https://github.com/ChristianGalvez23/Dependant-WS-JwtLoginWSProject.git) which is going to validate the token.
 
 ## Endpoints
 
