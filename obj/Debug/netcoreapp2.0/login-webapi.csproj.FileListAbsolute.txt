@@ -1,0 +1,10 @@
+C:\Users\cgalv\Documents\Personal\Projects\login-webapi\bin\Debug\netcoreapp2.0\login-webapi.deps.json
+C:\Users\cgalv\Documents\Personal\Projects\login-webapi\bin\Debug\netcoreapp2.0\login-webapi.runtimeconfig.json
+C:\Users\cgalv\Documents\Personal\Projects\login-webapi\bin\Debug\netcoreapp2.0\login-webapi.runtimeconfig.dev.json
+C:\Users\cgalv\Documents\Personal\Projects\login-webapi\bin\Debug\netcoreapp2.0\login-webapi.dll
+C:\Users\cgalv\Documents\Personal\Projects\login-webapi\bin\Debug\netcoreapp2.0\login-webapi.pdb
+C:\Users\cgalv\Documents\Personal\Projects\login-webapi\obj\Debug\netcoreapp2.0\login-webapi.csproj.CoreCompileInputs.cache
+C:\Users\cgalv\Documents\Personal\Projects\login-webapi\obj\Debug\netcoreapp2.0\login-webapi.AssemblyInfoInputs.cache
+C:\Users\cgalv\Documents\Personal\Projects\login-webapi\obj\Debug\netcoreapp2.0\login-webapi.AssemblyInfo.cs
+C:\Users\cgalv\Documents\Personal\Projects\login-webapi\obj\Debug\netcoreapp2.0\login-webapi.dll
+C:\Users\cgalv\Documents\Personal\Projects\login-webapi\obj\Debug\netcoreapp2.0\login-webapi.pdb
